@@ -1,0 +1,3 @@
+function depreciacao(montande,taxa){
+
+}
